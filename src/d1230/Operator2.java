@@ -6,8 +6,8 @@ public class Operator2 {
 			int num = 1;
 			num = num + 1;
 			num += 1;
-			num++;
-			++num;
+			num++;//후순연산자(후위연산자)
+			++num;//전위연산자
 			System.out.println(num++);
 			System.out.println(num);
 			

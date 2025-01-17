@@ -15,5 +15,9 @@ public class Condition2 {
 		}else {	
 			System.out.println("먹을만큼 먹었구나");
 		}
+		
+		if(age<40) {
+			System.out.println("40대구나");
+		}
 	}
 }

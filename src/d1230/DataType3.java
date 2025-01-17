@@ -1,6 +1,6 @@
 package d1230;
 
-public class Datatype3 {
+public class DataType3 {
 	public static void main(String[] args) {
 		char c1 = 'a';
 		String str = "안녕하세요";

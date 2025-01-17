@@ -9,7 +9,7 @@ public class Array2 {
 		
 		String[] strs = new String[3];
 		System.out.println(strs.length);//3
-		System.ouut.println(strs[0].length());
+		System.out.println(strs[0].length());
 		
 	}
 

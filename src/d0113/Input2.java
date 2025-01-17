@@ -12,7 +12,6 @@ public class Input2 {
 		int num = Integer.parseInt(numStr);
 		Random r = new Random();
 		int targetNum = r.nextInt(100)+1;
-		while(numStr
 		
 		if(num<targetNum) {
 			System.out.println("Up");

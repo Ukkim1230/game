@@ -1,6 +1,6 @@
 package d1230;
 
-public class Datetye2 {
+public class DateType2 {
 	public static void main(String[] args) {
 		int i = 10;
 		System.out.println(i==10);

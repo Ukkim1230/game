@@ -1,6 +1,6 @@
 package d1230;
 
-public class Datetype5 {
+public class DateType5 {
 	public static void main(String[] args) {
 		String str = "안녕";
 		str = "안녕" + "하세요";
